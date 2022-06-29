@@ -129,7 +129,7 @@ QBCore.Functions.CreateCallback('qb-diving:server:RemoveGear', function(src, cb)
     end
     local divingGear = Player.Functions.GetItemByName("diving_gear")
     if divingGear.amount > 0 then
-        local oxygen = 200
+        local oxygen = 400
         if divingGear.info.oxygen ~= nil then
             oxygen = divingGear.info.oxygen
         end

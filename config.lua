@@ -48,21 +48,21 @@ Config.CoralLocations = {
             Area = vector3(-3288.2, -67.58, 2.79),
             Coral = {
                 [1] = {
-                    coords = vector3(-3275.03, -38.58, -19.21),
+                    coords = vector3(-3281.1, -22.16, -15.27),
                     length = 3,
                     width = 3,
                     heading = 100.0,
                     PickedUp = false
                 },
                 [2] = {
-                    coords = vector3(-3273.73, -76.0, -26.81),
+                    coords = vector3(-3246.95, -5.75, -12.35),
                     length = 3,
                     width = 3,
                     heading = 100.0,
                     PickedUp = false
                 },
                 [3] = {
-                    coords = vector3(-3346.53, -50.4, -35.84),
+                    coords = vector3(-3214.82, -54.6, -13.31),
                     length = 3,
                     width = 3,
                     heading = 100.0,
